@@ -7,6 +7,7 @@
 
 #import "ViewController.h"
 #import "Geral.h"
+#import "SecondViewController.h"
 
 @interface ViewController ()
 

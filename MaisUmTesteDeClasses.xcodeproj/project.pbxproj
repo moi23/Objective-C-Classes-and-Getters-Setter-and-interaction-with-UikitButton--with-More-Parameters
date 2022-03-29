@@ -15,6 +15,7 @@
 		D73B705E27F359C9004294E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D73B705C27F359C9004294E3 /* LaunchScreen.storyboard */; };
 		D73B706127F359C9004294E3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D73B706027F359C9004294E3 /* main.m */; };
 		D73B706D27F35E85004294E3 /* Geral.m in Sources */ = {isa = PBXBuildFile; fileRef = D73B706C27F35E85004294E3 /* Geral.m */; };
+		D73B707027F375E7004294E3 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D73B706F27F375E7004294E3 /* SecondViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		D73B706027F359C9004294E3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D73B706B27F35E85004294E3 /* Geral.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Geral.h; sourceTree = "<group>"; };
 		D73B706C27F35E85004294E3 /* Geral.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Geral.m; sourceTree = "<group>"; };
+		D73B706E27F375E7004294E3 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		D73B706F27F375E7004294E3 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +101,8 @@
 				D73B705527F359C8004294E3 /* ViewController.m */,
 				D73B706B27F35E85004294E3 /* Geral.h */,
 				D73B706C27F35E85004294E3 /* Geral.m */,
+				D73B706E27F375E7004294E3 /* SecondViewController.h */,
+				D73B706F27F375E7004294E3 /* SecondViewController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -183,6 +188,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D73B707027F375E7004294E3 /* SecondViewController.m in Sources */,
 				D73B705627F359C8004294E3 /* ViewController.m in Sources */,
 				D73B706D27F35E85004294E3 /* Geral.m in Sources */,
 				D73B705027F359C8004294E3 /* AppDelegate.m in Sources */,
